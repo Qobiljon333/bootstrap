@@ -1,0 +1,19 @@
+
+
+.pult{
+    height: 100px;
+    background: dodgerblue;
+    border: 1px solid red;
+}
+
+.pults{
+    height: 50px;
+    background: dodgerblue;
+    border: 1px solid red;
+
+}
+
+.carousel-item img{
+    height: 580px;
+    object-fit: cover;
+}
